@@ -17,7 +17,7 @@ WC.TRANSLATIONS = {
     dashboard_title_prefix: 'WeCatchUp ',
     dashboard_title_team:   '第四團',
     dashboard_title_suffix: '戰情看板',
-    activity_period:        '活動期間 2026/04/27 – 2026/07/05（共 10 週）',
+    activity_period:        '活動期間 2026/04/27 – 2026/07/05（共 10 週）<br>測試更動（2026/06/05）',
     last_updated_prefix:    '資料更新：',
 
     /* ── 區段標籤 ── */
